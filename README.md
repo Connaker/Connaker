@@ -1,8 +1,8 @@
 Hello! :wave:
 
 I'm Mike Connaker - I am a Site Reliability Engineer living in the US. I've spent most of my career as an IT guru in the Information Technology. I have worked in various fields,
-including by not limited to networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies and
-CI/CD, IaC and scripting. I specialize in AWS.
+including networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies,
+CI/CD, IaC and scripting. I specialize in AWS and have some Azure Cloud experience.
 
 <h3> :mega: Find me elsewhere </h3>
 
