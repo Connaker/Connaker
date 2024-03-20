@@ -4,6 +4,7 @@ I'm Mike Connaker - I am a Site Reliability Engineer living in the US. I've spen
 including networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies,
 CI/CD, IaC and scripting. I specialize in AWS and have some Azure Cloud experience.
 
+
 <h3> :mega: Find me elsewhere </h3>
 
 <a href="https://www.linkedin.com/in/mconnaker/">
@@ -11,6 +12,15 @@ CI/CD, IaC and scripting. I specialize in AWS and have some Azure Cloud experien
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </a>
+
+
+<h3>Certifications</h3>
+
+![aws-certified-cloud-practitioner(1)](https://github.com/Connaker/Connaker/assets/146023991/93bd0f80-e98a-4154-b754-424538758a76)
+![aws-certified-sysops-administrator-associate](https://github.com/Connaker/Connaker/assets/146023991/28ba6cb5-3b74-4acb-862b-c05b6875ac27)
+
+![microsoft-certified-azure-fundamentals](https://github.com/Connaker/Connaker/assets/146023991/fe161932-e810-4217-b204-22e31a432c8a)
+![comptia-a-ce-certification 1](https://github.com/Connaker/Connaker/assets/146023991/7abb0ae5-8d80-4be1-b92d-5b4b8ec8ba1a)
 
 ---
 
