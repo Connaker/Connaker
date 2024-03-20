@@ -1,4 +1,7 @@
-Hello! :wave:
+![github-header-image](https://github.com/Connaker/Connaker/assets/146023991/8127fc0d-0fa6-436a-8b63-eefbf5623e34)
+
+
+
 
 I'm Mike Connaker - I am a Site Reliability Engineer living in the US. I've spent most of my career as an IT guru in the Information Technology. I have worked in various fields,
 including networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies,
