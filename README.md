@@ -1,10 +1,13 @@
-![github-header-image](https://github.com/Connaker/Connaker/assets/146023991/8127fc0d-0fa6-436a-8b63-eefbf5623e34)
+
+![github-header-image(3)](https://github.com/Connaker/Connaker/assets/146023991/ebfa7d0d-ae3e-4358-8072-4d7f622f9c1e)
 
 
 
 
-I'm Mike Connaker - I am a Site Reliability Engineer living in the US. I've spent most of my career as an IT guru in the Information Technology. I have worked in various fields,
-including networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies,
+
+I'm Mike Connaker - I am a Site Reliability Engineer living in the US. 
+
+I've spent most of my career as an IT guru in the Information Technology. I have worked in various fields, including networking, systems administration and desktop administration. Over the last few years, I have shifted to utlizing cloud technologies,
 CI/CD, IaC and scripting. I specialize in AWS and have some Azure Cloud experience.
 
 
